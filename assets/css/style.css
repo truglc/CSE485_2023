@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+body{
+    font-family: sans-serif !important;
+}
+.bg-body-tertiary{
+    background-color:#fff !important;
+}
+.container{
+
+}
+.card-body{
+    padding: 15px 0;
+}
+.card-body a{
+    color: #000;
+}
+.card{
+    border: none;
+    padding: 5px;
+}
+.my-logo{
+    max-width: 20%;
+}
+
+.nav-link{
+    text-transform: uppercase;
+}
+
+.active{
+    font-weight: bold;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.my-title{
+    overflow-y: hidden;
+}
+
+
